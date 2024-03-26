@@ -1,4 +1,4 @@
-# command-line-calc
+# This is like a coding game !
 
 Welcome to the Command Line Calculator project! This project aims to provide a simple command-line calculator implemented in various programming languages. Whether you're a beginner or an experienced developer, feel free to contribute your own version of the calculator in the language of your choice.
 
