@@ -1,0 +1,6 @@
+node_modules
+*.exe
+*.class
+*.dll
+package-lock.json
+package.json

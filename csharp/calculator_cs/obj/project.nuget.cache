@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+JLALxO5UYqhs2agLBCwGq5K7Ial7Ike+/lrsaJv0RW0Ysykv45KaHA3bbBbfWxChyDIrYkBFrx5zmUCUG42pg==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\Git\\cli-calculator\\csharp\\calculator_cs\\calculator_cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arkaa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\arkaa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\arkaa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\arkaa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
